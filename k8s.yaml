@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: resttemplateserver-hub
-          image: jinn2254/resttemplateserver-hub:latest
+          image: jin2254/resttemplateserver-hub:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
