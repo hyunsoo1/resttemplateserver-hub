@@ -42,3 +42,4 @@ spec:
       targetPort: 8080
       nodePort: 30101
 
+#테스트
